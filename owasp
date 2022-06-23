@@ -1,0 +1,24 @@
+One or more dependencies were identified with known vulnerabilities in resilient-foss:
+
+batik-all-1.13.jar (pkg:maven/org.apache.xmlgraphics/batik-all@1.13, cpe:2.3:a:apache:batik:1.13:*:*:*:*:*:*:*) : CVE-2020-11987
+batik-svgpp-1.13.jar (pkg:maven/org.apache.xmlgraphics/batik-svgpp@1.13, cpe:2.3:a:apache:batik:1.13:*:*:*:*:*:*:*, cpe:2.3:a:svgpp:svgpp:1.13:*:*:*:*:*:*:*) : CVE-2020-11987
+commons-compress-1.20.jar (pkg:maven/org.apache.commons/commons-compress@1.20, cpe:2.3:a:apache:commons_compress:1.20:*:*:*:*:*:*:*) : CVE-2021-35515, CVE-2021-35516, CVE-2021-35517, CVE-2021-36090
+commons-io-1.3.1.jar (pkg:maven/commons-io/commons-io@1.3.1, cpe:2.3:a:apache:commons_io:1.3.1:*:*:*:*:*:*:*) : CVE-2021-29425
+dom4j-2.1.1.jar (pkg:maven/org.dom4j/dom4j@2.1.1, cpe:2.3:a:dom4j_project:dom4j:2.1.1:*:*:*:*:*:*:*) : CVE-2020-10683
+hibernate-core-5.4.12.Final.jar (pkg:maven/org.hibernate/hibernate-core@5.4.12.Final, cpe:2.3:a:hibernate:hibernate_orm:5.4.12:*:*:*:*:*:*:*) : CVE-2020-25638, CVE-2019-14900
+hibernate-validator-6.0.18.Final.jar (pkg:maven/org.hibernate.validator/hibernate-validator@6.0.18.Final, cpe:2.3:a:redhat:hibernate_validator:6.0.18:*:*:*:*:*:*:*) : CVE-2020-10693
+jackson-databind-2.10.3.jar (pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.10.3, cpe:2.3:a:fasterxml:jackson-databind:2.10.3:*:*:*:*:*:*:*, cpe:2.3:a:fasterxml:jackson-modules-java8:2.10.3:*:*:*:*:*:*:*) : CVE-2020-25649, CVE-2020-36518
+log4j-api-2.12.1.jar (pkg:maven/org.apache.logging.log4j/log4j-api@2.12.1, cpe:2.3:a:apache:log4j:2.12.1:*:*:*:*:*:*:*) : CVE-2020-9488
+pdfbox-2.0.22.jar (pkg:maven/org.apache.pdfbox/pdfbox@2.0.22, cpe:2.3:a:apache:pdfbox:2.0.22:*:*:*:*:*:*:*) : CVE-2021-27807, CVE-2021-27906, CVE-2021-31811, CVE-2021-31812
+poi-5.0.0.jar (pkg:maven/org.apache.poi/poi@5.0.0, cpe:2.3:a:apache:poi:5.0.0:*:*:*:*:*:*:*) : CVE-2022-26336
+snakeyaml-1.25.jar (pkg:maven/org.yaml/snakeyaml@1.25, cpe:2.3:a:snakeyaml_project:snakeyaml:1.25:*:*:*:*:*:*:*, cpe:2.3:a:yaml_project:yaml:1.25:*:*:*:*:*:*:*) : CVE-2017-18640
+spring-boot-2.2.6.RELEASE.jar (pkg:maven/org.springframework.boot/spring-boot@2.2.6.RELEASE, cpe:2.3:a:vmware:spring_boot:2.2.6:release:*:*:*:*:*:*) : CVE-2022-27772
+spring-core-5.2.5.RELEASE.jar (pkg:maven/org.springframework/spring-core@5.2.5.RELEASE, cpe:2.3:a:pivotal_software:spring_framework:5.2.5:release:*:*:*:*:*:*, cpe:2.3:a:springsource:spring_framework:5.2.5:release:*:*:*:*:*:*, cpe:2.3:a:vmware:spring_framework:5.2.5:release:*:*:*:*:*:*) : CVE-2022-22965, CVE-2021-22118, CVE-2020-5421, CVE-2022-22950, CVE-2022-22971, CVE-2022-22968, CVE-2022-22970, CVE-2021-22060, CVE-2021-22096
+spring-web-5.2.5.RELEASE.jar (pkg:maven/org.springframework/spring-web@5.2.5.RELEASE, cpe:2.3:a:pivotal_software:spring_framework:5.2.5:release:*:*:*:*:*:*, cpe:2.3:a:springsource:spring_framework:5.2.5:release:*:*:*:*:*:*, cpe:2.3:a:vmware:spring_framework:5.2.5:release:*:*:*:*:*:*) : CVE-2016-1000027, CVE-2022-22965, CVE-2021-22118, CVE-2020-5421, CVE-2022-22950, CVE-2022-22971, CVE-2022-22968, CVE-2022-22970, CVE-2021-22060, CVE-2021-22096
+tomcat-embed-core-9.0.33.jar (pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.33, cpe:2.3:a:apache:tomcat:9.0.33:*:*:*:*:*:*:*, cpe:2.3:a:apache_tomcat:apache_tomcat:9.0.33:*:*:*:*:*:*:*) : CVE-2020-11996, CVE-2020-13934, CVE-2020-13935, CVE-2020-17527, CVE-2021-25122, CVE-2021-41079, CVE-2022-29885, CVE-2020-9484, CVE-2021-25329, CVE-2021-30640, CVE-2021-24122, CVE-2021-33037, CVE-2020-13943
+tomcat-embed-websocket-9.0.33.jar (pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@9.0.33, cpe:2.3:a:apache:tomcat:9.0.33:*:*:*:*:*:*:*, cpe:2.3:a:apache_tomcat:apache_tomcat:9.0.33:*:*:*:*:*:*:*) : CVE-2020-8022, CVE-2020-11996, CVE-2020-13934, CVE-2020-13935, CVE-2020-17527, CVE-2021-25122, CVE-2021-41079, CVE-2022-29885, CVE-2020-9484, CVE-2021-25329, CVE-2021-30640, CVE-2021-24122, CVE-2021-33037, CVE-2020-13943
+xmlgraphics-commons-2.4.jar (pkg:maven/org.apache.xmlgraphics/xmlgraphics-commons@2.4, cpe:2.3:a:apache:xmlgraphics_commons:2.4:*:*:*:*:*:*:*) : CVE-2020-11988
+xmlsec-2.2.1.jar (pkg:maven/org.apache.santuario/xmlsec@2.2.1, cpe:2.3:a:apache:santuario_xml_security_for_java:2.2.1:*:*:*:*:*:*:*, cpe:2.3:a:apache:xml_security_for_java:2.2.1:*:*:*:*:*:*:*) : CVE-2021-40690
+
+
+See the dependency-check report for more details.
