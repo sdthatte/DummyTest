@@ -1,0 +1,17 @@
+Unique CVEs size 35 and list [CVE-2022-22965, CVE-2021-25329, CVE-2021-27807, CVE-2021-27906, CVE-2021-3181, CVE-2020-1752, CVE-2021-22060, CVE-2020-10683, CVE-2020-25649, CVE-2020-2564, CVE-2021-2412, CVE-2020-2563, CVE-2021-24122, CVE-2020-1393, CVE-2021-44832, CVE-2021-36090, CVE-2021-3609, CVE-2022-22950, CVE-2021-40690, CVE-2021-31811, CVE-2021-31812, CVE-2021-35517, CVE-2021-35516, CVE-2021-35515, CVE-2020-13934, CVE-2020-13935, CVE-2020-17527, CVE-2021-3551, CVE-2021-4069, CVE-2021-25122, CVE-2020-25638, CVE-2021-2206, CVE-2020-5421, CVE-2020-1068, CVE-2020-9484]
+
+
+2022-06-23 13:21:30.443  INFO 1004 --- [           main] c.d.f.r.ResilientFossApplicationTests    : --------------------------------------------SCAN RESULTS-----------------------------------------
+2022-06-23 13:21:30.444  INFO 1004 --- [           main] c.d.f.r.ResilientFossApplicationTests    : pkg:maven/org.hibernate/hibernate-core@5.4.12.Final ---> [CVE-2020-2563, CVE-2020-25638]
+2022-06-23 13:21:30.444  INFO 1004 --- [           main] c.d.f.r.ResilientFossApplicationTests    : pkg:maven/org.apache.logging.log4j/log4j-api@2.12.1 ---> [CVE-2021-44832]
+2022-06-23 13:21:30.445  INFO 1004 --- [           main] c.d.f.r.ResilientFossApplicationTests    : pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.10.3 ---> [CVE-2020-2564, CVE-2020-25649]
+2022-06-23 13:21:30.445  INFO 1004 --- [           main] c.d.f.r.ResilientFossApplicationTests    : pkg:maven/org.apache.pdfbox/pdfbox@2.0.22 ---> [CVE-2021-27807, CVE-2021-27906, CVE-2021-3181, CVE-2021-31811, CVE-2021-31812]
+2022-06-23 13:21:30.445  INFO 1004 --- [           main] c.d.f.r.ResilientFossApplicationTests    : pkg:maven/org.springframework/spring-webmvc@5.2.5.RELEASE ---> [CVE-2020-5421, CVE-2022-22950, CVE-2022-22965]
+2022-06-23 13:21:30.445  INFO 1004 --- [           main] c.d.f.r.ResilientFossApplicationTests    : pkg:maven/org.springframework/spring-web@5.2.5.RELEASE ---> [CVE-2020-5421]
+2022-06-23 13:21:30.445  INFO 1004 --- [           main] c.d.f.r.ResilientFossApplicationTests    : pkg:maven/org.dom4j/dom4j@2.1.1 ---> [CVE-2020-1068, CVE-2020-10683]
+2022-06-23 13:21:30.445  INFO 1004 --- [           main] c.d.f.r.ResilientFossApplicationTests    : pkg:maven/org.apache.commons/commons-compress@1.20 ---> [CVE-2021-3551, CVE-2021-35515, CVE-2021-35516, CVE-2021-35517, CVE-2021-3609, CVE-2021-36090]
+2022-06-23 13:21:30.445  INFO 1004 --- [           main] c.d.f.r.ResilientFossApplicationTests    : pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@9.0.33 ---> [CVE-2021-2412, CVE-2021-24122, CVE-2021-25122, CVE-2021-25329, CVE-2020-1393, CVE-2020-13934, CVE-2020-1752, CVE-2020-17527, CVE-2020-9484]
+2022-06-23 13:21:30.445  INFO 1004 --- [           main] c.d.f.r.ResilientFossApplicationTests    : pkg:maven/org.apache.tomcat.embed/tomcat-embed-websocket@9.0.33 ---> [CVE-2021-2412, CVE-2021-24122, CVE-2020-1393, CVE-2020-13935]
+2022-06-23 13:21:30.445  INFO 1004 --- [           main] c.d.f.r.ResilientFossApplicationTests    : pkg:maven/org.springframework/spring-core@5.2.5.RELEASE ---> [CVE-2021-2206, CVE-2021-22060, CVE-2020-5421, CVE-2022-22950]
+2022-06-23 13:21:30.445  INFO 1004 --- [           main] c.d.f.r.ResilientFossApplicationTests    : pkg:maven/org.apache.santuario/xmlsec@2.2.1 ---> [CVE-2021-4069, CVE-2021-40690]
+2022-06-23 13:21:30.445  INFO 1004 --- [           main] c.d.f.r.ResilientFossApplicationTests    : --------------------------------------------------------------------------------------------------
