@@ -8,10 +8,6 @@
     <name>marmaray</name>
     <url>http://maven.apache.org</url>
 
-    <modules>
-        <module>marmaray</module>
-        <module>marmaray-tools</module>
-    </modules>
 
     <properties>
         <maven-compiler-plugin.version>3.5</maven-compiler-plugin.version>
