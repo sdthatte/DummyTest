@@ -40,7 +40,6 @@ require (
 	google.golang.org/genproto v0.0.0-20210821163610-241b8fcbd6c8 // indirect
 	google.golang.org/grpc v1.46.0
 	google.golang.org/protobuf v1.27.1
-    github.com/traefik/traefik/v2 v2.9.4
 )
 
 go 1.13
