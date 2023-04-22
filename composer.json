@@ -1,0 +1,16 @@
+{
+    "name": "codefresh-contrib/php-composer-sample-app",
+    "description": "Example php project for Codefresh pipelines",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^1.24",
+        "phpunit/php-timer": "^1.0.9"
+        "shopware/platform": "6.4.19.0"
+    },
+    "authors": [
+        {
+            "name": "Kostis Kapelonis",
+            "email": "kostis@codefresh.io"
+        }
+    ]
+}
