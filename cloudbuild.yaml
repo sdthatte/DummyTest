@@ -2,7 +2,7 @@ steps:
 - name: 'bash'
   script: |
     #!/usr/bin/env bash
-    echo "Testing GCP Cloud Build $REPO_NAME"
+    echo "Testing GCP Cloud Build $_REPO_URL"
 - name: 'gcr.io/cloud-builders/docker'
   entrypoint: 'bash'
-  args: ['-c', 'docker run saurabhthatte/foss-scan:aws $REPO_NAME']
+  args: ['-c', 'docker run saurabhthatte/foss-scan:aws $_REPO_URL']
